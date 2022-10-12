@@ -41,5 +41,7 @@ we are a group of Cairo university Facutly of Engineering students how are curre
 2) Loading and saving all slices in one stack of images (one case) and its label images in one or all 3 orientations.
 3) Showing samples of image and label slice pairs in one stack of images (one case).
 
-
+## Used Datsets:
+- https://www.doc.ic.ac.uk/~rkarim/la_lv_framework/index.html
+Left Atrial Wall Dataset (CT)
 
