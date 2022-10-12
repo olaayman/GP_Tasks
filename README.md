@@ -8,7 +8,6 @@ we are a group of Cairo university Facutly of Engineering students how are curre
 - Abdallah Mohamed Galal
 - Pierre Amir
 
-
 ## Conda environment
 
 - create an enviroment from a yaml file
@@ -35,5 +34,12 @@ we are a group of Cairo university Facutly of Engineering students how are curre
   conda env export > environment_gp.yml
 
 ```
+
+## General Task 1 Guidelines:
+#### (Getting Familiar with Nibabel)
+1) Checking size equality in all three dimensions amomg all dataset cases and performing resizing where necessary.
+2) Loading and saving all slices in one stack of images (one case) and its label images in one or all 3 orientations.
+3) Showing samples of image and label slice pairs in one stack of images (one case).
+
 
 
