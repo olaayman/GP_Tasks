@@ -44,4 +44,5 @@ we are a group of Cairo university Facutly of Engineering students how are curre
 ## Used Datsets:
 - https://www.doc.ic.ac.uk/~rkarim/la_lv_framework/index.html
 Left Atrial Wall Dataset (CT)
+- https://www.kaggle.com/datasets/adarshsng/heart-mri-image-dataset-left-atrial-segmentation Heart MRI Image DataSet : Left Atrial Segmentation
 
